@@ -3,7 +3,7 @@ A repository for the sea ice fishing study
 
 ## Data acquisition
 
-TODO: Dataset is not included in repo, explain and describe steps how to obtain data from Greenland government (use SQL file in `scripts/luli_query.sql`)
+TODO: Dataset is not included in repo, explain and describe steps how to obtain data from Greenland government (use SQL file in `scripts/luli_query.sql`), and where to put it
 
 ## Getting started
 
