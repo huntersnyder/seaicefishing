@@ -56,7 +56,7 @@ seasonal_year,sellers_locality,n_fields
 2014,Aasiaat,1
 2014,Akunnaaq,5
 2014,Attu,1
-2014,Iginniarfik,3
+2014,Iginniarfik,2
 2014,Ikamiut,1
 2014,"Ikerasaarsuk, Kangaatsiaq",4
 2014,"Ikerasaarsuk, Upernavik",1
@@ -66,7 +66,7 @@ seasonal_year,sellers_locality,n_fields
 2014,Ilulissat,9
 2014,Innaarsuit,12
 2014,Itilleq,1
-2014,Kangaatsiaq,5
+2014,Kangaatsiaq,4
 2014,Kangersuatsiaq,10
 2014,Kullorsuaq,15
 2014,Naajaat,10
@@ -178,7 +178,7 @@ seasonal_year,sellers_locality,n_fields
 2017,Upernavik,28
 2017,Upernavik Kujalleq,3
 2017,Uummannaq,34
-2018,Attu,2
+2018,Attu,1
 2018,Ikamiut,1
 2018,Ikerasak,20
 2018,Ilulissat,12
@@ -202,7 +202,7 @@ seasonal_year,sellers_locality,n_fields
 2018,Siorapaluk,5
 2018,Sisimiut,4
 2018,Ukkusissat,22
-2018,Upernavik,40
+2018,Upernavik,39
 2018,Upernavik Kujalleq,3
 2018,Uummannaq,39
 2019,Aasiaat,2
@@ -230,7 +230,7 @@ seasonal_year,sellers_locality,n_fields
 2019,Ukkusissat,19
 2019,Upernavik,28
 2019,Upernavik Kujalleq,4
-2019,Uummannaq,36
+2019,Uummannaq,35
 2020,Ikamiut,1
 2020,Ikerasak,20
 2020,Ilulissat,4
@@ -254,12 +254,11 @@ seasonal_year,sellers_locality,n_fields
 2020,Saqqaq,7
 2020,Siorapaluk,5
 2020,Ukkusissat,13
-2020,Upernavik,23
+2020,Upernavik,22
 2020,Upernavik Kujalleq,11
 2020,Uummannaq,23
 2021,Aasiaat,1
 2021,Akunnaaq,9
-2021,Attu,1
 2021,Ikerasak,12
 2021,Ilimanaq,1
 2021,Ilulissat,10
@@ -284,5 +283,33 @@ seasonal_year,sellers_locality,n_fields
 2021,Upernavik,26
 2021,Upernavik Kujalleq,15
 2021,Uummannaq,28
-2022,Innaarsuit,1
-2022,Qaanaaq,1
+2022,Aasiaat,1
+2022,Akunnaaq,2
+2022,Iginniarfik,1
+2022,Ikamiut,7
+2022,Ikerasak,20
+2022,Ilimanaq,1
+2022,Ilulissat,5
+2022,Innaarsuit,25
+2022,Kangaatsiaq,1
+2022,Kangerlussuaq,8
+2022,Kangersuatsiaq,4
+2022,Kullorsuaq,22
+2022,Naajaat,5
+2022,Niaqornat,2
+2022,Nutaarmiut,3
+2022,Nuuk,6
+2022,Qaanaaq,12
+2022,Qaarsut,22
+2022,Qasigiannguit,1
+2022,Qeqertaq,10
+2022,Qeqertat,8
+2022,Saattut,20
+2022,Saqqaq,9
+2022,Sarfannguit,1
+2022,Savissivik,3
+2022,Siorapaluk,2
+2022,Ukkusissat,23
+2022,Upernavik,26
+2022,Upernavik Kujalleq,11
+2022,Uummannaq,24

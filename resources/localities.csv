@@ -1,98 +1,98 @@
-,locality,locality_dk,municipality,alias,settlement_size,geo_district,geo_lon,geo_lat
-0,Nerlerit Inaat,Constabel Pynt,Sermersooq,NRI,Bygd,Illoqqortoormiut,-22.65236503,70.73238537
-1,UKENDT,UKENDT,,,,,,
-2,Sirius,Sirius slædepatrulje,UFK,SIR,Station,,,
-3,Akunnaaq,Akunnaaq,Qaasuitsup,AKU,Bygd,Aasiaat,-52.33635385,68.74312431
-4,Kitsissuarsuit,Hunde Ejlande,Qaasuitsup,KIT,Bygd,Aasiaat,-53.11863439,68.85952923
-5,Ikkatteq,Ikkatteq,Sermersooq,IKT,Bygd,Tasiilaq,-37.9468045,65.63611203
-6,Isortoq,Isortoq,Sermersooq,ISO,Bygd,Tasiilaq,-38.9674359,65.53271905
-7,Kulusuk,Kap Dan,Sermersooq,KUL,Bygd,Tasiilaq,-37.18005379,65.56854907
-8,Kuummiut,Kuummiut,Sermersooq,KUM,Bygd,Tasiilaq,-37.01369998,65.88283141
-9,Qernertuarsuit,Qernertuarsuit,Sermersooq,QNS,Bygd,Tasiilaq,-37.28958027,65.71471223
-10,Sermiligaaq,Sermiligaaq,Sermersooq,SML,Bygd,Tasiilaq,-36.37990668,65.91321849
-11,Tiniteqilaaq,Tiniteqilaaq,Sermersooq,TIN,Bygd,Tasiilaq,-37.76810348,65.88236357
-12,Itserajivit,Itserajivit,Sermersooq,ITR,Bygd,Illoqqortoormiut,-22.38335565,70.46656633
-13,Uunarteq,Uunarteq,Sermersooq,UUN,Bygd,Illoqqortoormiut,-21.9806159,70.41849537
-14,Ilimanaq,Claushavn,Qaasuitsup,ILQ,Bygd,Ilulissat,-51.11457398,69.07805646
-15,Oqaatsut,Rodebay,Qaasuitsup,OQA,Bygd,Ilulissat,-51.00449772,69.34191375
-16,Qeqertaq,Qeqertaq,Qaasuitsup,QQT,Bygd,Ilulissat,-51.30519353,69.99778088
-17,Saqqaq,Saqqaq,Qaasuitsup,SQQ,Bygd,Ilulissat,-51.95939141,70.00983468
-18,Kangilinnguit,Grønnedal,Sermersooq,KNL,Station,Ivittuut,-48.09616763,61.23274114
-19,Attu,Attu,Qaasuitsup,KAT,By,Kangaatsiaq,-53.45600227,68.3095619
-20,Iginniarfik,Iginniarfik,Qaasuitsup,IGF,Bygd,Kangaatsiaq,-53.17570805,68.14853935
-21,"Ikerasaarsuk, Kangaatsiaq","Ikerasaarsuk, Kangaatsiaq",Qaasuitsup,IKS,Bygd,Kangaatsiaq,-53.44989759,68.13989251
-22,Niaqornaarsuk,Niaqornaarsuk,Qaasuitsup,NQK,Bygd,Kangaatsiaq,-52.85875263,68.23611517
-23,Atammik,Atammik,Qeqqata,ATA,Bygd,Maniitsoq,-52.17521818,64.80610588
-24,Kangaamiut,Kangaamiut,Qeqqata,KAM,Bygd,Maniitsoq,-53.34688386,65.82800664
-25,Napasoq,Napasoq,Qeqqata,NAP,Bygd,Maniitsoq,-52.38256093,65.05423716
-26,Aappilattoq Nanortalimmi,Aappilattoq Nanortalimmi,Kujalleq,APL,Bygd,Nanortalik,-44.28504687,60.14670605
-27,Alluitsup Paa,Sydprøven,Kujalleq,ALP,Bygd,Nanortalik,-45.56754402,60.46378988
-28,Ammassivik,Sletten,Kujalleq,AMS,Bygd,Nanortalik,-45.38037512,60.59736086
-29,Narsaq Kujalleq,Frederiksdal,Kujalleq,NKJ,Bygd,Nanortalik,-44.66366109,60.00325425
-30,Qallimiut,Qallimiut,Kujalleq,QAL,Landbrug,Nanortalik,-45.37736889,60.70485327
-31,Qorlortorsuaq,Qorlortorsuaq,Kujalleq,QRS,Landbrug,Nanortalik,-45.27940917,60.77949612
-32,Tasiusaq Nanortalimmi,Tasiusaq Nanortalimmi,Kujalleq,TAQ,Bygd,Nanortalik,-44.81965727,60.19332362
-33,Igaliku,Igaliku,Kujalleq,IGA,Bygd,Narsaq,-45.43366083,60.99160668
-34,Qassiarsuk,Qassiarsuk,Kujalleq,QSK,Bygd,Narsaq,-45.51198371,61.14996496
-35,Kapisillit,Kapisillit,Sermersooq,KAP,Bygd,Nuuk,-50.26895424,64.42803294
-36,Qeqertarsuatsiaat,Fiskenæsset,Sermersooq,QTT,Bygd,Nuuk,-50.67681806,63.08674123
-37,Arsuk,Arsuk,Sermersooq,ARS,Bygd,Paamiut,-48.43538876,61.18496411
-38,Moriusaq,Moriusaq,Qaasuitsup,MOR,Bygd,Qaanaaq,-69.80837426,76.75591707
-39,Qeqertarsuaq-Qaanaaq,Qeqertarsuaq-Qaanaaq,Qaasuitsup,QTS,Bygd,Qaanaaq,-70.08025388,77.42286589
-40,Qeqertat,Qeqertat,Qaasuitsup,QET,Bygd,Qaanaaq,-66.67101974,77.49445418
-41,Savissivik,Savissivik,Qaasuitsup,SAV,Bygd,Qaanaaq,-65.0203611,76.01828138
-42,Siorapaluk,Siorapaluk,Qaasuitsup,SIO,Bygd,Qaanaaq,-70.5236472,77.79478301
-43,Eqalugaarsuit,Eqalugaarsuit,Kujalleq,EQA,Bygd,Qaqortoq,-45.90915804,60.6253013
-44,Qassimiut,Qassimiut,Kujalleq,QSM,Bygd,Qaqortoq,-47.16002468,60.7797355
-45,Saarloq,Saarloq,Kujalleq,SAL,Bygd,Qaqortoq,-46.00558185,60.54817587
-46,Kangerluk,Diskofjorden,Qaasuitsup,KLK,Bygd,Qeqertarsuaq,-53.94646516,69.48587245
-47,Itilleq,Itilleq,Qeqqata,ITI,Bygd,Sisimiut,-53.50467297,66.57773593
-48,Sarfannguit,Sarfaannguit,Qeqqata,SFN,Bygd,Sisimiut,-52.86233304,66.89591565
-49,Aappilattoq Upernavimmi,Aappilattoq Upernavimmi,Qaasuitsup,AAP,Bygd,Upernavik,-55.59887761,72.88296414
-50,Innaarsuit,Innaarsuit,Qaasuitsup,INN,Bygd,Upernavik,-56.01493732,73.19800918
-51,Kangersuatsiaq,Prøven,Qaasuitsup,KAQ,Bygd,Upernavik,-55.54336915,72.3791134
-52,Kullorsuaq,Kullorsuaq,Qaasuitsup,KLQ,Bygd,Upernavik,-57.22874653,74.57753368
-53,Naajaat,Naajaat,Qaasuitsup,NAJ,Bygd,Upernavik,-55.81567168,73.14213494
-54,"Nuussuaq, Upernavik",Kraulshavn,Qaasuitsup,NUS,Bygd,Upernavik,-57.06564791,74.10960008
-55,Tasiusaq,Tasiusaq,Qaasuitsup,TSS,Bygd,Upernavik,-56.05904195,73.37317566
-56,Tussaaq,Tussaaq,Qaasuitsup,TUS,Bygd,Upernavik,-56.16609541,73.05388615
-57,Upernavik Kujalleq,Upernavik Kujalleq,Qaasuitsup,UPK,Bygd,Upernavik,-55.53468012,72.15714052
-58,Ikerasak,Ikerasak,Qaasuitsup,IKE,Bygd,Uummannaq,-51.29979512,70.50211508
-59,Illorsuit,Illorsuit,Qaasuitsup,ILL,Bygd,Uummannaq,-53.54929055,71.23972222
-60,Niaqornat,Niaqornat,Qaasuitsup,NIA,Bygd,Uummannaq,-53.66223672,70.79002082
-61,Nuugaatsiaq,Nuugaatsiaq,Qaasuitsup,NUG,Bygd,Uummannaq,-53.19612101,71.53682905
-62,Qaarsut,Qaarsut,Qaasuitsup,QST,Bygd,Uummannaq,-52.64059264,70.72891292
-63,Saattut,Saattut,Qaasuitsup,SAA,Bygd,Uummannaq,-51.6277346,70.80922489
-64,Ukkusissat,Ukkusissat,Qaasuitsup,UKK,Bygd,Uummannaq,-51.88932583,71.04994753
-65,Danmark,Danmark,,,,,,
-66,Nuuk,Godthåb,Sermersooq,NUK,By,Nuuk,-51.72590677,64.17953206
-67,Taaneqanngitsoq,Ukendt sted,,,,,,
-68,"Nuussuaq, Nuuk",Nuussuaq,,,,,,
-69,Kangerlussuaq,Sdr. Strømfjord,Qeqqata,KAN,Bygd,Sisimiut,-50.73051826,67.01741149
-70,Sisimiut,Holsteinsborg,Qeqqata,SIS,By,Sisimiut,-53.67020718,66.93693722
-71,Maniitsoq,Sukkertoppen,Qeqqata,MAN,By,Maniitsoq,-52.88704893,65.42032615
-72,Tasiilaq,Tasiilaq,Sermersooq,TAS,By,Tasiilaq,-37.63517879,65.60205929
-73,Qaqortoq,Julianehåb,Kujalleq,QAQ,By,Qaqortoq,-46.03888905,60.72112142
-74,Narsaq,Narsaq,Kujalleq,NAR,By,Narsaq,-46.04162008,60.91556595
-75,Nanortalik,Nanortalik,Kujalleq,NAN,By,Nanortalik,-45.24145071,60.15046472
-76,Narsarsuaq,Narsarsuaq,Kujalleq,NRS,Bygd,Narsaq,-45.42278728,61.15719052
-77,Ikerasassuaq,Prins Christianssund,Kujalleq,PCS,Bygd,Nanortalik,-43.16577996,60.05304512
-78,Ivittuut,Ivittuut,Sermersooq,IVI,By,Ivittuut,-48.14793154,61.20773185
-79,Paamiut,Frederikshåb,Sermersooq,PAA,By,Paamiut,-49.6487588,62.00511181
-80,Aasiaat,Aasiaat,Qaasuitsup,AAS,By,Aasiaat,-52.8523477,68.7078453
-81,Qasigiannguit,Qasigiannguit,Qaasuitsup,QAS,By,Qasigiannguit,-51.19543573,68.82368968
-82,Ilulissat,Ilulissat,Qaasuitsup,ILU,By,Ilulissat,-51.09615415,69.21198334
-83,Qeqertarsuaq,Qeqertarsuaq,Qaasuitsup,QEQ,By,Qeqertarsuaq,-53.52277641,69.25260353
-84,Kangaatsiaq,Kangaatsiaq,Qaasuitsup,KAT,By,Kangaatsiaq,-53.45600227,68.3095619
-85,Uummannaq,Uummannaq,Qaasuitsup,UUM,By,Uummannaq,-52.13489108,70.6823702
-86,Upernavik,Upernavik,Qaasuitsup,UPV,By,Upernavik,-56.13741849,72.78347803
-87,Pituffik,Dundas,UFK,PIT,Station,Qaanaaq,-68.68538633,76.53714808
-88,Qaanaaq,Thule,Qaasuitsup,QNQ,By,Qaanaaq,-69.22230166,77.46714195
-89,Illoqqortoormiut,Scoresbysund,Sermersooq,ILT,By,Illoqqortoormiut,-21.95814239,70.49252418
-90,Danmarkshavn,Danmarkshavn,UFK,DMH,Station,Nordøstgrønland,-18.67205202,76.76888841
-91,Daneborg,Daneborg,UFK,DNB,Station,Nordøstgrønland,-20.22762308,74.30446617
-92,(tidl.) Ikamiut,(tidl.) Ikamiut,,,,,,
-93,Ikamiut,Ikamiut,Qaasuitsup,IKA,Bygd,Qasigiannguit,-51.82739338,68.63518842
-94,Nutaarmiut,Nutaarmiut,Qaasuitsup,NUT,Bygd,Upernavik,-56.43054847,73.51609827
-95,"Ikerasaarsuk, Upernavik","Ikerasaarsuk, Upernavik",Qaasuitsup,,Bygd,Upernavik,-56.42189331,73.5272221
-96,Ungusivik,Ungusivik,Qeqqata,UNG,Bygd,Maniitsoq,-53.49726688,65.94004075
+locality,locality_dk,municipality,alias,settlement_size,geo_district,geo_lon,geo_lat
+Nerlerit Inaat,Constabel Pynt,Sermersooq,NRI,Bygd,Illoqqortoormiut,-22.65236503,70.73238537
+UKENDT,UKENDT,,,,,,
+Sirius,Sirius slædepatrulje,UFK,SIR,Station,,,
+Akunnaaq,Akunnaaq,Qaasuitsup,AKU,Bygd,Aasiaat,-52.33635385,68.74312431
+Kitsissuarsuit,Hunde Ejlande,Qaasuitsup,KIT,Bygd,Aasiaat,-53.11863439,68.85952923
+Ikkatteq,Ikkatteq,Sermersooq,IKT,Bygd,Tasiilaq,-37.9468045,65.63611203
+Isortoq,Isortoq,Sermersooq,ISO,Bygd,Tasiilaq,-38.9674359,65.53271905
+Kulusuk,Kap Dan,Sermersooq,KUL,Bygd,Tasiilaq,-37.18005379,65.56854907
+Kuummiut,Kuummiut,Sermersooq,KUM,Bygd,Tasiilaq,-37.01369998,65.88283141
+Qernertuarsuit,Qernertuarsuit,Sermersooq,QNS,Bygd,Tasiilaq,-37.28958027,65.71471223
+Sermiligaaq,Sermiligaaq,Sermersooq,SML,Bygd,Tasiilaq,-36.37990668,65.91321849
+Tiniteqilaaq,Tiniteqilaaq,Sermersooq,TIN,Bygd,Tasiilaq,-37.76810348,65.88236357
+Itserajivit,Itserajivit,Sermersooq,ITR,Bygd,Illoqqortoormiut,-22.38335565,70.46656633
+Uunarteq,Uunarteq,Sermersooq,UUN,Bygd,Illoqqortoormiut,-21.9806159,70.41849537
+Ilimanaq,Claushavn,Qaasuitsup,ILQ,Bygd,Ilulissat,-51.11457398,69.07805646
+Oqaatsut,Rodebay,Qaasuitsup,OQA,Bygd,Ilulissat,-51.00449772,69.34191375
+Qeqertaq,Qeqertaq,Qaasuitsup,QQT,Bygd,Ilulissat,-51.30519353,69.99778088
+Saqqaq,Saqqaq,Qaasuitsup,SQQ,Bygd,Ilulissat,-51.95939141,70.00983468
+Kangilinnguit,Grønnedal,Sermersooq,KNL,Station,Ivittuut,-48.09616763,61.23274114
+Attu,Attu,Qaasuitsup,KAT,By,Kangaatsiaq,-53.45600227,68.3095619
+Iginniarfik,Iginniarfik,Qaasuitsup,IGF,Bygd,Kangaatsiaq,-53.17570805,68.14853935
+"Ikerasaarsuk, Kangaatsiaq","Ikerasaarsuk, Kangaatsiaq",Qaasuitsup,IKS,Bygd,Kangaatsiaq,-53.44989759,68.13989251
+Niaqornaarsuk,Niaqornaarsuk,Qaasuitsup,NQK,Bygd,Kangaatsiaq,-52.85875263,68.23611517
+Atammik,Atammik,Qeqqata,ATA,Bygd,Maniitsoq,-52.17521818,64.80610588
+Kangaamiut,Kangaamiut,Qeqqata,KAM,Bygd,Maniitsoq,-53.34688386,65.82800664
+Napasoq,Napasoq,Qeqqata,NAP,Bygd,Maniitsoq,-52.38256093,65.05423716
+Aappilattoq Nanortalimmi,Aappilattoq Nanortalimmi,Kujalleq,APL,Bygd,Nanortalik,-44.28504687,60.14670605
+Alluitsup Paa,Sydprøven,Kujalleq,ALP,Bygd,Nanortalik,-45.56754402,60.46378988
+Ammassivik,Sletten,Kujalleq,AMS,Bygd,Nanortalik,-45.38037512,60.59736086
+Narsaq Kujalleq,Frederiksdal,Kujalleq,NKJ,Bygd,Nanortalik,-44.66366109,60.00325425
+Qallimiut,Qallimiut,Kujalleq,QAL,Landbrug,Nanortalik,-45.37736889,60.70485327
+Qorlortorsuaq,Qorlortorsuaq,Kujalleq,QRS,Landbrug,Nanortalik,-45.27940917,60.77949612
+Tasiusaq Nanortalimmi,Tasiusaq Nanortalimmi,Kujalleq,TAQ,Bygd,Nanortalik,-44.81965727,60.19332362
+Igaliku,Igaliku,Kujalleq,IGA,Bygd,Narsaq,-45.43366083,60.99160668
+Qassiarsuk,Qassiarsuk,Kujalleq,QSK,Bygd,Narsaq,-45.51198371,61.14996496
+Kapisillit,Kapisillit,Sermersooq,KAP,Bygd,Nuuk,-50.26895424,64.42803294
+Qeqertarsuatsiaat,Fiskenæsset,Sermersooq,QTT,Bygd,Nuuk,-50.67681806,63.08674123
+Arsuk,Arsuk,Sermersooq,ARS,Bygd,Paamiut,-48.43538876,61.18496411
+Moriusaq,Moriusaq,Qaasuitsup,MOR,Bygd,Qaanaaq,-69.80837426,76.75591707
+Qeqertarsuaq-Qaanaaq,Qeqertarsuaq-Qaanaaq,Qaasuitsup,QTS,Bygd,Qaanaaq,-70.08025388,77.42286589
+Qeqertat,Qeqertat,Qaasuitsup,QET,Bygd,Qaanaaq,-66.67101974,77.49445418
+Savissivik,Savissivik,Qaasuitsup,SAV,Bygd,Qaanaaq,-65.0203611,76.01828138
+Siorapaluk,Siorapaluk,Qaasuitsup,SIO,Bygd,Qaanaaq,-70.5236472,77.79478301
+Eqalugaarsuit,Eqalugaarsuit,Kujalleq,EQA,Bygd,Qaqortoq,-45.90915804,60.6253013
+Qassimiut,Qassimiut,Kujalleq,QSM,Bygd,Qaqortoq,-47.16002468,60.7797355
+Saarloq,Saarloq,Kujalleq,SAL,Bygd,Qaqortoq,-46.00558185,60.54817587
+Kangerluk,Diskofjorden,Qaasuitsup,KLK,Bygd,Qeqertarsuaq,-53.94646516,69.48587245
+Itilleq,Itilleq,Qeqqata,ITI,Bygd,Sisimiut,-53.50467297,66.57773593
+Sarfannguit,Sarfaannguit,Qeqqata,SFN,Bygd,Sisimiut,-52.86233304,66.89591565
+Aappilattoq Upernavimmi,Aappilattoq Upernavimmi,Qaasuitsup,AAP,Bygd,Upernavik,-55.59887761,72.88296414
+Innaarsuit,Innaarsuit,Qaasuitsup,INN,Bygd,Upernavik,-56.01493732,73.19800918
+Kangersuatsiaq,Prøven,Qaasuitsup,KAQ,Bygd,Upernavik,-55.54336915,72.3791134
+Kullorsuaq,Kullorsuaq,Qaasuitsup,KLQ,Bygd,Upernavik,-57.22874653,74.57753368
+Naajaat,Naajaat,Qaasuitsup,NAJ,Bygd,Upernavik,-55.81567168,73.14213494
+"Nuussuaq, Upernavik",Kraulshavn,Qaasuitsup,NUS,Bygd,Upernavik,-57.06564791,74.10960008
+Tasiusaq,Tasiusaq,Qaasuitsup,TSS,Bygd,Upernavik,-56.05904195,73.37317566
+Tussaaq,Tussaaq,Qaasuitsup,TUS,Bygd,Upernavik,-56.16609541,73.05388615
+Upernavik Kujalleq,Upernavik Kujalleq,Qaasuitsup,UPK,Bygd,Upernavik,-55.53468012,72.15714052
+Ikerasak,Ikerasak,Qaasuitsup,IKE,Bygd,Uummannaq,-51.29979512,70.50211508
+Illorsuit,Illorsuit,Qaasuitsup,ILL,Bygd,Uummannaq,-53.54929055,71.23972222
+Niaqornat,Niaqornat,Qaasuitsup,NIA,Bygd,Uummannaq,-53.66223672,70.79002082
+Nuugaatsiaq,Nuugaatsiaq,Qaasuitsup,NUG,Bygd,Uummannaq,-53.19612101,71.53682905
+Qaarsut,Qaarsut,Qaasuitsup,QST,Bygd,Uummannaq,-52.64059264,70.72891292
+Saattut,Saattut,Qaasuitsup,SAA,Bygd,Uummannaq,-51.6277346,70.80922489
+Ukkusissat,Ukkusissat,Qaasuitsup,UKK,Bygd,Uummannaq,-51.88932583,71.04994753
+Danmark,Danmark,,,,,,
+Nuuk,Godthåb,Sermersooq,NUK,By,Nuuk,-51.72590677,64.17953206
+Taaneqanngitsoq,Ukendt sted,,,,,,
+"Nuussuaq, Nuuk",Nuussuaq,,,,,,
+Kangerlussuaq,Sdr. Strømfjord,Qeqqata,KAN,Bygd,Sisimiut,-50.73051826,67.01741149
+Sisimiut,Holsteinsborg,Qeqqata,SIS,By,Sisimiut,-53.67020718,66.93693722
+Maniitsoq,Sukkertoppen,Qeqqata,MAN,By,Maniitsoq,-52.88704893,65.42032615
+Tasiilaq,Tasiilaq,Sermersooq,TAS,By,Tasiilaq,-37.63517879,65.60205929
+Qaqortoq,Julianehåb,Kujalleq,QAQ,By,Qaqortoq,-46.03888905,60.72112142
+Narsaq,Narsaq,Kujalleq,NAR,By,Narsaq,-46.04162008,60.91556595
+Nanortalik,Nanortalik,Kujalleq,NAN,By,Nanortalik,-45.24145071,60.15046472
+Narsarsuaq,Narsarsuaq,Kujalleq,NRS,Bygd,Narsaq,-45.42278728,61.15719052
+Ikerasassuaq,Prins Christianssund,Kujalleq,PCS,Bygd,Nanortalik,-43.16577996,60.05304512
+Ivittuut,Ivittuut,Sermersooq,IVI,By,Ivittuut,-48.14793154,61.20773185
+Paamiut,Frederikshåb,Sermersooq,PAA,By,Paamiut,-49.6487588,62.00511181
+Aasiaat,Aasiaat,Qaasuitsup,AAS,By,Aasiaat,-52.8523477,68.7078453
+Qasigiannguit,Qasigiannguit,Qaasuitsup,QAS,By,Qasigiannguit,-51.19543573,68.82368968
+Ilulissat,Ilulissat,Qaasuitsup,ILU,By,Ilulissat,-51.09615415,69.21198334
+Qeqertarsuaq,Qeqertarsuaq,Qaasuitsup,QEQ,By,Qeqertarsuaq,-53.52277641,69.25260353
+Kangaatsiaq,Kangaatsiaq,Qaasuitsup,KAT,By,Kangaatsiaq,-53.45600227,68.3095619
+Uummannaq,Uummannaq,Qaasuitsup,UUM,By,Uummannaq,-52.13489108,70.6823702
+Upernavik,Upernavik,Qaasuitsup,UPV,By,Upernavik,-56.13741849,72.78347803
+Pituffik,Dundas,UFK,PIT,Station,Qaanaaq,-68.68538633,76.53714808
+Qaanaaq,Thule,Qaasuitsup,QNQ,By,Qaanaaq,-69.22230166,77.46714195
+Illoqqortoormiut,Scoresbysund,Sermersooq,ILT,By,Illoqqortoormiut,-21.95814239,70.49252418
+Danmarkshavn,Danmarkshavn,UFK,DMH,Station,Nordøstgrønland,-18.67205202,76.76888841
+Daneborg,Daneborg,UFK,DNB,Station,Nordøstgrønland,-20.22762308,74.30446617
+(tidl.) Ikamiut,(tidl.) Ikamiut,,,,,,
+Ikamiut,Ikamiut,Qaasuitsup,IKA,Bygd,Qasigiannguit,-51.82739338,68.63518842
+Nutaarmiut,Nutaarmiut,Qaasuitsup,NUT,Bygd,Upernavik,-56.43054847,73.51609827
+"Ikerasaarsuk, Upernavik","Ikerasaarsuk, Upernavik",Qaasuitsup,,Bygd,Upernavik,-56.42189331,73.5272221
+Ungusivik,Ungusivik,Qeqqata,UNG,Bygd,Maniitsoq,-53.49726688,65.94004075
