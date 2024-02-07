@@ -163,3 +163,7 @@ cython_debug/
 
 # Do not include non-public data in repo
 data/raw/
+
+data/derived/landings_cleaned.csv
+
+output
