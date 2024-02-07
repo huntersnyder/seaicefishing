@@ -165,5 +165,6 @@ cython_debug/
 data/raw/
 
 data/derived/landings_cleaned.csv
+data/derived/fishertypes.csv
 
 output

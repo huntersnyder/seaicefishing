@@ -50,7 +50,7 @@ seasonal_year,sellers_locality,n_fields
 2013,Sermiligaaq,1
 2013,Siorapaluk,7
 2013,Ukkusissat,9
-2013,Upernavik,25
+2013,Upernavik,24
 2013,Upernavik Kujalleq,6
 2013,Uummannaq,19
 2014,Aasiaat,1
@@ -72,7 +72,7 @@ seasonal_year,sellers_locality,n_fields
 2014,Naajaat,10
 2014,Niaqornat,9
 2014,Nutaarmiut,2
-2014,Nuugaatsiaq,15
+2014,Nuugaatsiaq,14
 2014,Nuuk,1
 2014,Qaanaaq,16
 2014,Qaarsut,18
@@ -96,7 +96,7 @@ seasonal_year,sellers_locality,n_fields
 2015,Ilulissat,11
 2015,Innaarsuit,20
 2015,Kangersuatsiaq,7
-2015,Kullorsuaq,19
+2015,Kullorsuaq,18
 2015,Naajaat,9
 2015,Niaqornat,6
 2015,Nutaarmiut,4
@@ -196,7 +196,7 @@ seasonal_year,sellers_locality,n_fields
 2018,Qeqertarsuaq,4
 2018,Qeqertat,6
 2018,Saattut,29
-2018,Saqqaq,17
+2018,Saqqaq,15
 2018,Sarfannguit,1
 2018,Savissivik,4
 2018,Siorapaluk,5
@@ -210,7 +210,6 @@ seasonal_year,sellers_locality,n_fields
 2019,Ilimanaq,1
 2019,Ilulissat,10
 2019,Innaarsuit,12
-2019,Kangaatsiaq,2
 2019,Kangersuatsiaq,7
 2019,Kullorsuaq,18
 2019,Naajaat,10
@@ -224,13 +223,13 @@ seasonal_year,sellers_locality,n_fields
 2019,Qeqertarsuaq,4
 2019,Qeqertat,4
 2019,Saattut,28
-2019,Saqqaq,16
+2019,Saqqaq,15
 2019,Savissivik,3
 2019,Siorapaluk,3
 2019,Ukkusissat,19
 2019,Upernavik,28
 2019,Upernavik Kujalleq,4
-2019,Uummannaq,35
+2019,Uummannaq,34
 2020,Ikamiut,1
 2020,Ikerasak,20
 2020,Ilulissat,4
@@ -247,7 +246,7 @@ seasonal_year,sellers_locality,n_fields
 2020,Paamiut,1
 2020,Qaanaaq,13
 2020,Qaarsut,13
-2020,Qeqertaq,10
+2020,Qeqertaq,9
 2020,Qeqertarsuaq,4
 2020,Qeqertat,4
 2020,Saattut,15
@@ -289,8 +288,8 @@ seasonal_year,sellers_locality,n_fields
 2022,Ikamiut,7
 2022,Ikerasak,20
 2022,Ilimanaq,1
-2022,Ilulissat,5
-2022,Innaarsuit,25
+2022,Ilulissat,4
+2022,Innaarsuit,23
 2022,Kangaatsiaq,1
 2022,Kangerlussuaq,8
 2022,Kangersuatsiaq,4
@@ -300,9 +299,9 @@ seasonal_year,sellers_locality,n_fields
 2022,Nutaarmiut,3
 2022,Nuuk,6
 2022,Qaanaaq,12
-2022,Qaarsut,22
+2022,Qaarsut,20
 2022,Qasigiannguit,1
-2022,Qeqertaq,10
+2022,Qeqertaq,9
 2022,Qeqertat,8
 2022,Saattut,20
 2022,Saqqaq,9
@@ -312,4 +311,4 @@ seasonal_year,sellers_locality,n_fields
 2022,Ukkusissat,23
 2022,Upernavik,26
 2022,Upernavik Kujalleq,11
-2022,Uummannaq,24
+2022,Uummannaq,23

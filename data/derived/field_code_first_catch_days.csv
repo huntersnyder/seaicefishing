@@ -218,7 +218,7 @@ season,field_code,sellers_locality,first_catch_day
 2012,NN007,Upernavik Kujalleq,201
 2013,600B3,Sermiligaaq,257
 2013,KE019,Itilleq,216
-2013,LB023,Akunnaaq,222
+2013,LB023,Akunnaaq,224
 2013,LB023,Ikamiut,224
 2013,LD021,Uummannaq,241
 2013,LD023,Akunnaaq,222
@@ -402,7 +402,6 @@ season,field_code,sellers_locality,first_catch_day
 2013,NM004,Kullorsuaq,193
 2013,NM005,Kullorsuaq,230
 2013,NM006,Kullorsuaq,141
-2013,NM006,Upernavik,242
 2013,NN003,Kullorsuaq,183
 2013,NN004,Kullorsuaq,207
 2013,NN004,Upernavik,229
@@ -525,7 +524,7 @@ season,field_code,sellers_locality,first_catch_day
 2014,LV027,Ilulissat,194
 2014,LV027,Uummannaq,213
 2014,LV028,Ikerasak,202
-2014,LV028,Uummannaq,234
+2014,LV028,Uummannaq,237
 2014,LV029,Ikerasak,264
 2014,LV029,Saattut,242
 2014,LV029,Uummannaq,237
@@ -617,7 +616,6 @@ season,field_code,sellers_locality,first_catch_day
 2014,MB023,Ukkusissat,234
 2014,MB024,Ukkusissat,181
 2014,MB025,Ukkusissat,166
-2014,MB026,Nuugaatsiaq,276
 2014,MB026,Ukkusissat,163
 2014,MB027,Ukkusissat,163
 2014,MB028,Ukkusissat,255
@@ -642,7 +640,7 @@ season,field_code,sellers_locality,first_catch_day
 2014,MG019,Nuugaatsiaq,178
 2014,MG020,Nuugaatsiaq,270
 2014,MG020,Ukkusissat,298
-2014,MG021,Illorsuit,168
+2014,MG021,Illorsuit,215
 2014,MG021,Nuugaatsiaq,167
 2014,MG021,Saattut,231
 2014,MG021,Ukkusissat,214
@@ -747,7 +745,7 @@ season,field_code,sellers_locality,first_catch_day
 2014,NM003,Upernavik,171
 2014,NM004,Kullorsuaq,173
 2014,NM005,Kullorsuaq,276
-2014,NM006,Kullorsuaq,174
+2014,NM006,Kullorsuaq,262
 2014,NM007,Kullorsuaq,272
 2014,NM008,Upernavik,212
 2014,NN003,Kullorsuaq,192
@@ -808,7 +806,7 @@ season,field_code,sellers_locality,first_catch_day
 2015,LT029,Ikerasak,323
 2015,LV024,Qaarsut,229
 2015,LV024,Uummannaq,159
-2015,LV025,Niaqornat,164
+2015,LV025,Niaqornat,169
 2015,LV025,Qaarsut,163
 2015,LV025,Uummannaq,157
 2015,LV026,Ikerasak,163
@@ -943,7 +941,7 @@ season,field_code,sellers_locality,first_catch_day
 2015,MZ008,Naajaat,164
 2015,MZ008,Nuuk,213
 2015,MZ008,Upernavik,164
-2015,MZ008,Upernavik Kujalleq,235
+2015,MZ008,Upernavik Kujalleq,220
 2015,MZ009,Ilulissat,164
 2015,MZ009,Innaarsuit,138
 2015,MZ009,Kangersuatsiaq,206
@@ -974,7 +972,6 @@ season,field_code,sellers_locality,first_catch_day
 2015,ND007,"Ikerasaarsuk, Upernavik",170
 2015,ND007,Innaarsuit,226
 2015,ND007,Kangersuatsiaq,228
-2015,ND007,Kullorsuaq,186
 2015,ND007,Nutaarmiut,142
 2015,ND007,Upernavik,160
 2015,ND008,Ilulissat,223
@@ -1160,7 +1157,7 @@ season,field_code,sellers_locality,first_catch_day
 2016,LX026,Illorsuit,266
 2016,LX026,Ilulissat,170
 2016,LX026,Niaqornat,267
-2016,LX026,Qaarsut,183
+2016,LX026,Qaarsut,178
 2016,LX026,Saattut,164
 2016,LX026,Saqqaq,251
 2016,LX026,Uummannaq,179
@@ -1583,7 +1580,7 @@ season,field_code,sellers_locality,first_catch_day
 2017,MB026,Qasigiannguit,242
 2017,MB026,Ukkusissat,194
 2017,MB027,Qasigiannguit,254
-2017,MB027,Ukkusissat,224
+2017,MB027,Ukkusissat,226
 2017,MB028,Ukkusissat,225
 2017,MD015,Uummannaq,283
 2017,MD020,Illorsuit,7
@@ -1721,10 +1718,8 @@ season,field_code,sellers_locality,first_catch_day
 2018,LG018,Qeqertarsuaq,201
 2018,LG019,Qeqertarsuaq,229
 2018,LG028,Ilulissat,172
-2018,LG028,Saqqaq,186
 2018,LG030,Ilulissat,110
-2018,LG030,Qeqertarsuaq,228
-2018,LG030,Saqqaq,180
+2018,LG030,Qeqertarsuaq,232
 2018,LG031,Ilulissat,111
 2018,LN026,Qeqertaq,240
 2018,LN027,Qaarsut,202
@@ -1804,7 +1799,7 @@ season,field_code,sellers_locality,first_catch_day
 2018,LX025,Qeqertaq,247
 2018,LX025,Saattut,166
 2018,LX025,Uummannaq,166
-2018,LX026,Ikerasak,188
+2018,LX026,Ikerasak,180
 2018,LX026,Ilulissat,183
 2018,LX026,Qaarsut,172
 2018,LX026,Saattut,156
@@ -1935,7 +1930,7 @@ season,field_code,sellers_locality,first_catch_day
 2018,MV012,Upernavik,170
 2018,MX008,Innaarsuit,136
 2018,MX008,Upernavik,224
-2018,MX009,Innaarsuit,135
+2018,MX009,Innaarsuit,140
 2018,MX009,Kangersuatsiaq,192
 2018,MX009,Naajaat,159
 2018,MX009,Nuuk,177
@@ -1991,7 +1986,7 @@ season,field_code,sellers_locality,first_catch_day
 2018,ND010,Kangersuatsiaq,197
 2018,ND010,Nutaarmiut,173
 2018,ND010,Nuuk,169
-2018,ND010,Upernavik,173
+2018,ND010,Upernavik,180
 2018,NE008,Upernavik,187
 2018,NG004,Upernavik,221
 2018,NG005,Upernavik,219
@@ -2078,10 +2073,7 @@ season,field_code,sellers_locality,first_catch_day
 2019,LF028,Ilimanaq,214
 2019,LG028,Ilulissat,202
 2019,LG030,Ilulissat,173
-2019,LG030,Kangaatsiaq,208
-2019,LG030,Saqqaq,220
 2019,LG031,Ilulissat,116
-2019,LG031,Kangaatsiaq,220
 2019,LG031,Uummannaq,237
 2019,LG032,Ilulissat,164
 2019,LG032,Upernavik,183
@@ -2175,7 +2167,6 @@ season,field_code,sellers_locality,first_catch_day
 2019,LX029,Ikerasak,197
 2019,LX029,Saattut,244
 2019,LZ018,Niaqornat,222
-2019,LZ018,Uummannaq,236
 2019,LZ020,Qaarsut,232
 2019,LZ020,Uummannaq,236
 2019,LZ021,Qaarsut,218
@@ -2414,7 +2405,6 @@ season,field_code,sellers_locality,first_catch_day
 2020,LV026,Ikerasak,220
 2020,LV026,Nuuk,230
 2020,LV026,Qaarsut,221
-2020,LV026,Qeqertaq,221
 2020,LV026,Saqqaq,232
 2020,LV026,Uummannaq,216
 2020,LV027,Ikerasak,184
@@ -2533,7 +2523,7 @@ season,field_code,sellers_locality,first_catch_day
 2020,ND007,Nutaarmiut,205
 2020,ND007,Upernavik,206
 2020,ND007,Upernavik Kujalleq,240
-2020,ND008,Nutaarmiut,214
+2020,ND008,Nutaarmiut,228
 2020,ND008,Upernavik,218
 2020,ND008,Upernavik Kujalleq,268
 2020,ND009,Nutaarmiut,312
@@ -2563,7 +2553,7 @@ season,field_code,sellers_locality,first_catch_day
 2020,NM004,Kullorsuaq,185
 2020,NM005,Kullorsuaq,171
 2020,NM006,Innaarsuit,165
-2020,NM006,Kullorsuaq,164
+2020,NM006,Kullorsuaq,167
 2020,NM006,Upernavik Kujalleq,195
 2020,NM007,Kullorsuaq,222
 2020,NN001,Kullorsuaq,268
@@ -2908,8 +2898,7 @@ season,field_code,sellers_locality,first_catch_day
 2022,LG028,Ilulissat,357
 2022,LG029,Ilimanaq,198
 2022,LG030,Ilulissat,181
-2022,LG031,Ilulissat,175
-2022,LG032,Ilulissat,175
+2022,LG031,Ilulissat,202
 2022,LH028,Ilulissat,327
 2022,LH028,Qeqertaq,200
 2022,LN025,Saattut,255
@@ -2923,15 +2912,13 @@ season,field_code,sellers_locality,first_catch_day
 2022,LP028,Qeqertaq,176
 2022,LP028,Saqqaq,182
 2022,LT025,Ikerasak,184
-2022,LT025,Qaarsut,210
 2022,LT026,Ikerasak,221
 2022,LT026,Qaarsut,175
 2022,LT026,Ukkusissat,231
 2022,LT026,Uummannaq,194
-2022,LT027,Ikerasak,171
+2022,LT027,Ikerasak,172
 2022,LT027,Qaarsut,214
 2022,LT027,Ukkusissat,240
-2022,LT027,Uummannaq,268
 2022,LT028,Ikerasak,172
 2022,LT028,Qaarsut,217
 2022,LT028,Qeqertaq,176
@@ -2953,7 +2940,7 @@ season,field_code,sellers_locality,first_catch_day
 2022,LV026,Uummannaq,183
 2022,LV027,Ikerasak,164
 2022,LV027,Qaarsut,183
-2022,LV027,Qeqertaq,217
+2022,LV027,Qeqertaq,222
 2022,LV027,Saattut,204
 2022,LV027,Ukkusissat,182
 2022,LV028,Ikerasak,183
@@ -2975,7 +2962,7 @@ season,field_code,sellers_locality,first_catch_day
 2022,LX024,Uummannaq,165
 2022,LX025,Ikerasak,235
 2022,LX025,Qaarsut,204
-2022,LX025,Saattut,186
+2022,LX025,Saattut,202
 2022,LX025,Saqqaq,213
 2022,LX025,Uummannaq,177
 2022,LX026,Ikerasak,182
@@ -2989,15 +2976,14 @@ season,field_code,sellers_locality,first_catch_day
 2022,LX027,Qeqertaq,184
 2022,LX027,Saattut,170
 2022,LX027,Uummannaq,181
-2022,LX028,Ikerasak,171
+2022,LX028,Ikerasak,174
 2022,LX028,Qaarsut,168
 2022,LX028,Qeqertaq,176
 2022,LX028,Saattut,228
 2022,LX028,Ukkusissat,216
 2022,LX028,Uummannaq,225
-2022,LX029,Ikerasak,206
-2022,LX029,Qeqertaq,174
-2022,LX029,Saattut,209
+2022,LX029,Ikerasak,211
+2022,LX029,Saattut,217
 2022,LZ022,Qaarsut,246
 2022,LZ023,Qaarsut,238
 2022,LZ024,Uummannaq,199
@@ -3007,7 +2993,6 @@ season,field_code,sellers_locality,first_catch_day
 2022,LZ026,Saattut,160
 2022,LZ026,Ukkusissat,253
 2022,LZ026,Uummannaq,178
-2022,LZ027,Qaarsut,268
 2022,LZ027,Saattut,165
 2022,LZ027,Ukkusissat,210
 2022,LZ027,Uummannaq,203
@@ -3084,7 +3069,6 @@ season,field_code,sellers_locality,first_catch_day
 2022,NA008,Upernavik,161
 2022,NA009,Innaarsuit,158
 2022,NA009,Upernavik,237
-2022,NA010,Innaarsuit,287
 2022,NA010,Upernavik,175
 2022,NA011,Innaarsuit,210
 2022,NB007,Innaarsuit,232
@@ -3125,7 +3109,7 @@ season,field_code,sellers_locality,first_catch_day
 2022,NM007,Kullorsuaq,168
 2022,NM008,Innaarsuit,171
 2022,NN001,Ikerasak,226
-2022,NN001,Innaarsuit,250
+2022,NN001,Innaarsuit,253
 2022,NN001,Kullorsuaq,165
 2022,NN002,Kullorsuaq,175
 2022,NN003,Innaarsuit,269
@@ -3137,7 +3121,6 @@ season,field_code,sellers_locality,first_catch_day
 2022,NN006,Kullorsuaq,161
 2022,NN007,Innaarsuit,257
 2022,NN007,Kullorsuaq,203
-2022,NP001,Innaarsuit,245
 2022,NP001,Kullorsuaq,184
 2022,NP002,Kullorsuaq,196
 2022,NP003,Kullorsuaq,172
