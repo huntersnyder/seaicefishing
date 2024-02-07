@@ -162,7 +162,7 @@ cython_debug/
 .DS_Store
 
 # Do not include non-public data in repo
-data/raw/
+data/raw/landings_raw.csv
 
 data/derived/landings_cleaned.csv
 data/derived/fishertypes.csv

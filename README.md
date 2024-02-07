@@ -14,3 +14,6 @@ python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 ```
+
+URL to get family income data:
+https://bank.stat.gl:443/sq/9a7fde35-2137-424a-bfce-69133073d24a
