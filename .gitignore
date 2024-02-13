@@ -164,7 +164,8 @@ cython_debug/
 # Do not include non-public data in repo
 data/raw/landings_raw.csv
 
-data/derived/landings_cleaned.csv
-data/derived/fishertypes.csv
+data/derived/
 
 output
+
+*.zip
